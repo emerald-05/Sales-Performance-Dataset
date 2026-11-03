@@ -2,11 +2,11 @@
 An interactive Power BI data analytics solution designed to track, analyze, and visualize comprehensive electronics retail sales performance, customer demographics, and profitability metrics.
 
 ## Dashboard Overview
-Total Profit: 931.91k
-Total Revenue: 3.11M
-Total Purchase: 16k
-Total Customers: 250
-Total Cost: 2.17M
+1. Total Profit: 931.91k
+2. Total Revenue: 3.11M
+3. Total Purchase: 16k
+4. Total Customers: 250
+5. Total Cost: 2.17M
 
 ## Data Model & Structure
 The relational data model is built using a star-schema architecture consisting of 3 main tables:
