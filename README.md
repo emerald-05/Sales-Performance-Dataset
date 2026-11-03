@@ -14,10 +14,10 @@ The relational data model is built using a star-schema architecture consisting o
 2. Products Table: Details electronics items categorized by product name, category, brand, color, and weight.
 3. Customers Table: Tracks customer profile including region, age, gender, income level, and signup dates.
 
-4. ## Key Features & Visuals
-5. Brand & Product Performance: Visualizes to-performance electronics and brand by profit.
-6. Regional & Demographics Breakdown: Analyzes sales distribution across geographics regions and customer income levels.
-7. Monthly Trends: Tracks revenue and customer growth trajectories over time.
+## Key Features & Visuals
+1. Brand & Product Performance: Visualizes to-performance electronics and brand by profit.
+2. Regional & Demographics Breakdown: Analyzes sales distribution across geographics regions and customer income levels.
+3. Monthly Trends: Tracks revenue and customer growth trajectories over time.
 
-8. ## How to view
-9. Download the 'pbix' file in this repository and open it in Power BI Desktop.
+## How to view
+Download the 'pbix' file in this repository and open it in Power BI Desktop.
