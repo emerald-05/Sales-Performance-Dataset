@@ -1,23 +1,7 @@
-# Electronics Sales Dashboard Project
-An interactive Power BI data analytics solution designed to track, analyze, and visualize comprehensive electronics retail sales performance, customer demographics, and profitability metrics.
+# Sales Performance Dataset
 
-## Dashboard Overview
-1. Total Profit: 931.91k
-2. Total Revenue: 3.11M
-3. Total Purchase: 16k
-4. Total Customers: 250
-5. Total Cost: 2.17M
+## Overview
+Contains the dataset and pivot tables used for the Sales Performance analysis and interactive dashboard.
 
-## Data Model & Structure
-The relational data model is built using a star-schema architecture consisting of 3 main tables:
-1. Sales Table: Contains transaction records, quantities, unit cost, revenues, profit margins, and sales dates.
-2. Products Table: Details electronics items categorized by product name, category, brand, color, and weight.
-3. Customers Table: Tracks customer profile including region, age, gender, income level, and signup dates.
-
-## Key Features & Visuals
-1. Brand & Product Performance: Visualizes to-performance electronics and brand by profit.
-2. Regional & Demographics Breakdown: Analyzes sales distribution across geographics regions and customer income levels.
-3. Monthly Trends: Tracks revenue and customer growth trajectories over time.
-
-## How to view
-Download the 'pbix' file in this repository and open it in Power BI Desktop.
+## File 
+* **Sales Performance Dataset.xlsx**: The primary workbook holding the data and pivot tables. 
